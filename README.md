@@ -1,4 +1,4 @@
-# IsoBuster.Plugin
+# IsoBuster Plugins
 Plugin framework for IsoBuster
 
 I have no experience with Github (or open source in general) yet, so this is very much a test case.
